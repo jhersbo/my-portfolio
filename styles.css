@@ -1,0 +1,26 @@
+.body{
+    background-color:whitesmoke;
+    border-style: double;
+    border-width: 10px;
+    border-color: red;
+    text-align: center;
+
+}
+h3{
+   font-style: italic;
+   text-shadow: 5px; 
+}
+.header{
+    font-size: 18px;
+    font-style: bold;
+}
+.center{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    opacity: 70%;
+}
+.underline{
+    text-decoration: underline;
+}
